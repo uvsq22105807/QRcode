@@ -30,9 +30,10 @@ Ensuite vous pourrez éxécuter le code, la page ci-dessous s'ouvrira, c'est la 
 ![Interfacearrivee](https://user-images.githubusercontent.com/91261751/168499177-23d270f9-3152-4d37-a30f-7652c6f91082.png)
 
 Lorsque vous décidez de lire un QRcode, vous devez appuyer sur "Lire un QRcode" et ensuite le charger en appuyant sur "Charger un QRcode".  Les informations du QRcode en question s'afficheront sur le l'interface blache prévue à cet effet.
+![InterfaceLecture](https://user-images.githubusercontent.com/91261751/168499183-8f9d293d-0b8f-49b8-871a-eae636a02c7a.png)
 
-![InterfaceCreer](https://user-images.githubusercontent.com/91261751/168499180-9c90d5a6-4384-4179-8fb1-f5982ed15158.png)
+
 
 Si vous souhaitez créer un QRcode, vous devez appuyer sur "Créer un QRcode", vous pourrez ainsi choisir le filtre à appliquer ainsi que l'encodage. Finalement vous allez inserer le message dans le petit emplacement prévu à cet effet et un QR code sera alors crée.
 
-![InterfaceLecture](https://user-images.githubusercontent.com/91261751/168499183-8f9d293d-0b8f-49b8-871a-eae636a02c7a.png)
+![InterfaceCreer](https://user-images.githubusercontent.com/91261751/168499180-9c90d5a6-4384-4179-8fb1-f5982ed15158.png)
